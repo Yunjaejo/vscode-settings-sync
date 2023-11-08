@@ -1,0 +1,15 @@
+{
+  "terminal.integrated.fontFamily": "MesloLGS NF",
+  "files.autoSave": "afterDelay",
+  "editor.codeActionsOnSave": {},
+  "editor.formatOnSave": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.colorTheme": "Community Material Theme Darker High Contrast",
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontSize": 14,
+  "editor.fontLigatures": false,
+  "terminal.integrated.fontSize": 14,
+  "editor.tabSize": 2,
+  "prettier.singleQuote": true
+}
