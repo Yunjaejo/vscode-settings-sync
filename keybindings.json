@@ -73,5 +73,9 @@
     "key": "ctrl+-",
     "command": "-workbench.action.navigateBack",
     "when": "canNavigateBack"
+  },
+  {
+    "key": "cmd+n",
+    "command": "extension.advancedNewFile"
   }
 ]
