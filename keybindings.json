@@ -11,12 +11,12 @@
     "when": "viewContainer.workbench.view.explorer.enabled"
   },
   {
-    "key": "ctrl+[Backquote]",
+    "key": "ctrl+;",
     "command": "terminal.focus",
     "when": "editorFocus"
   },
   {
-    "key": "ctrl+[Backquote]",
+    "key": "ctrl+;",
     "command": "workbench.action.focusActiveEditorGroup",
     "when": "terminalFocus"
   },
