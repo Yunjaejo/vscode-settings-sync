@@ -11,5 +11,6 @@
   "editor.fontLigatures": false,
   "terminal.integrated.fontSize": 14,
   "editor.tabSize": 2,
-  "prettier.singleQuote": true
+  "prettier.singleQuote": true,
+  "prettier.jsxSingleQuote": true
 }
